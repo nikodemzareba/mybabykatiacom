@@ -43,7 +43,7 @@ export default async function Page() {
             <div className='justify-center text-center p-4 border-b items-between'>
               <img
                 className='absolute object-cover -mt-6 transform -translate-x-1/2 -translate-y-1/2 hover:scale-110 transition-transform duration-300 inline-block h-24 w-24 rounded-full  border-2 shadow-lg border-white'
-                src='/kat.jpg'
+                src='/kat.png'
                 alt=''
               />
               <div className='ml-4 mx-auto text-center align-middle relative mt-8'>
