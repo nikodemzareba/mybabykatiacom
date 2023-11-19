@@ -6,8 +6,8 @@ import Script from 'next/script'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'juicykatrina.com'
-  // description: 'Welcome to Katrina Sten OnlyFan Page',
+  title: 'mybabykatia.com'
+  // description: 'Welcome to Katia's OnlyFans Page,
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

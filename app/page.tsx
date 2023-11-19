@@ -48,7 +48,7 @@ export default async function Page() {
               />
               <div className='ml-4 mx-auto text-center align-middle relative mt-8'>
                 <h4 className='font-semibold'>
-                  Katrina
+                  Katia
                   <span className='px-2 ml-1 py-1 text-sm relative text-green-500 bg-green-100 rounded-full shadow-green-400'>
                     <span className='absolute top-1.5 left-1.5 flex w-3 h-3 z-40'>
                       <span className='absolute inline-flex w-full h-full duration-1000 bg-green-400 rounded-full opacity-75 animate-ping'></span>
